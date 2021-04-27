@@ -26,8 +26,8 @@ body {
 }
 
 .header-room {
-    width: 94%;
-    font-size: 40px;
+  width: 94%;
+  font-size: 40px;
 }
 
 .inner-bubble {
@@ -77,8 +77,8 @@ body {
   }
 
   [class*="header-room"] {
-      width: 95%;
-      font-size: 30px;
+    width: 95%;
+    font-size: 30px;
   }
 }
 
