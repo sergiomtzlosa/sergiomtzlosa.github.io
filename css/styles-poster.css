@@ -8,6 +8,7 @@ body {
   background: #029dc8;
   height: auto;
   padding: 10px;
+  border-width: 5px;
 }
 
 .text-header {
@@ -57,18 +58,18 @@ body {
   }
 
   [class*="round-corners"] {
-      width: 95%;
-      font-size: 40px;
+    width: 95%;
+    font-size: 40px;
   }
 
   [class*="img"] {
-      width: 130%;
-      height: auto;
+    width: 130%;
+    height: auto;
   }
 
   [class*="inner-bubble"] {
-      width: 80%;
-      font-size: 20px;
+    width: 80%;
+    font-size: 20px;
   }
 
   [class*="reference"] {
@@ -77,7 +78,7 @@ body {
   }
 
   [class*="header-room"] {
-    width: 95%;
+    width: 94%;
     font-size: 30px;
   }
 }
