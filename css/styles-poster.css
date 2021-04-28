@@ -60,11 +60,6 @@ body {
     font-size: 40px;
   }
 
-  [class*="img"] {
-    width: 130%;
-    height: auto;
-  }
-
   [class*="inner-bubble"] {
     width: 80%;
     font-size: 20px;
