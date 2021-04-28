@@ -134,8 +134,7 @@ body {
 }
 
 .hline {
-  size: 10px;
-  align: center;
+  margin: 0 auto 5px auto;
   width: 20%;
 }
 
