@@ -1,5 +1,5 @@
 # Hello Quantum World
 
-Resources and extra materials for posters and meeting.
+Resources and extra materials for posters and meetings.
 
 ![](misc/dilbert-quantum-computer.png)
