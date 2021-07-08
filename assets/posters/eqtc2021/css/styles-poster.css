@@ -90,7 +90,6 @@ body {
 .outer p {
   margin: 10px;
   font-size: 20px;
-  text-align: inherit;
   text-shadow: 2px 2px 18px gray;
 }
 
@@ -146,4 +145,37 @@ p.reference {
 img {
   width: 100%;
   height: auto;
+}
+
+.render-slab {
+  z-index: 3;
+  width: 120%;
+  height: auto;
+}
+
+.render-arrow {
+  position:absolute;
+  z-index: 1;
+  width: 20%;
+  height: auto;
+  margin-left: 70%;
+}
+
+.render-colour-bar {
+  width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.render-logo {
+  position: absolute;
+  width: 50%;
+  height: auto;
+  margin-left: 3%;
+}
+
+.justify-text {
+  text-align: justify;
 }
