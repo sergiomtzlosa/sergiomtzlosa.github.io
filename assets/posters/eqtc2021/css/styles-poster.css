@@ -151,14 +151,16 @@ img {
   z-index: 3;
   width: 120%;
   height: auto;
+  margin-top: -10%;
 }
 
 .render-arrow {
-  position:absolute;
+  position: relative;
   z-index: 1;
   width: 20%;
   height: auto;
   margin-left: 70%;
+  margin-top: -15%;
 }
 
 .render-colour-bar {
@@ -170,7 +172,7 @@ img {
 }
 
 .render-logo {
-  position: absolute;
+  position: relative;
   width: 50%;
   height: auto;
   margin-left: 3%;
