@@ -2,4 +2,4 @@
 
 Resources and extra materials for posters and meetings.
 
-![](misc/dilbert-quantum-computer.png)
+![](assets/misc/dilbert-quantum-computer.png)
